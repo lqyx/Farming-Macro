@@ -1,10 +1,11 @@
 # lqyx- Farming Macro
 
+Download
 
-Check out DxxxxY/TokenAuth, a session id login mod.
 
-1.12.2 version WITHOUT discord tokens.
-1.18 version WITH discord tokens.
+Check out our Macro Mod for skyblock
+
+1.8.9 Version available
 
 # How To Install
 ◦ How to use?
