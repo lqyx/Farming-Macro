@@ -1,6 +1,8 @@
 # lqyx- Farming Macro
 
-Download : https://github.com/lqyx/lqyx-/releases/tag/v1.0
+◦ Download : https://github.com/lqyx/lqyx-/releases/tag/v1.0
+
+◦ Direct Download : https://github.com/lqyx/lqyx-/releases/download/v1.0/Iqyx.Farming_Macro.jar
 
 
 Check out our Macro Mod for skyblock
